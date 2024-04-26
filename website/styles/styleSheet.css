@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lmnas-section-container{
+    @apply py-16 md:py-24 lg:py-24
+}
+.lmnas-cta-dark{
+    @apply w-36 sm:w-48 py-3 text-base font-medium tracking-wide text-white transition-colors duration-300 transform bg-th-primary rounded-md hover:bg-th-tertiary focus:bg-th-tertiary focus:outline-none
+}
+.lmnas-cta-light{
+    @apply w-36 sm:w-48 py-3 text-base font-medium tracking-wide text-th-tertiary transition-colors duration-300 transform bg-th-quaternary rounded-md hover:bg-th-secondary hover:text-white focus:bg-th-secondary focus:outline-none
+}

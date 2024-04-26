@@ -1,0 +1,86 @@
+2024-04-13 12:38:38,136 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-13 12:38:38,137 - INFO - Server is watching the input file /akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-13 12:39:10,768 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-13 12:39:10,769 - INFO - Server is watching the input file /akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-13 12:40:32,125 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-13 12:40:32,126 - INFO - Server is watching the input file Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-13 12:40:32,275 - INFO - The File update detected, triggering the workflow - 1232
+2024-04-13 12:40:32,287 - INFO - Folder 'Temp\20240413_124032\' created successfully. - 103
+2024-04-13 12:40:32,429 - INFO - INFO: Extracting - 109
+2024-04-13 12:40:32,430 - INFO - INFO: Opening the workbook - 151
+2024-04-13 12:40:32,430 - ERROR - Exception raised: File is not a zip file - 1199
+2024-04-13 12:40:32,431 - INFO - Write successfull - 1235
+2024-04-13 12:42:28,315 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-13 12:42:28,316 - INFO - Server is watching the input file Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-13 12:42:28,472 - INFO - The File update detected, triggering the workflow - 1232
+2024-04-13 12:42:28,474 - INFO - Folder 'Temp\20240413_124228\' created successfully. - 103
+2024-04-13 12:42:28,611 - INFO - INFO: Extracting - 109
+2024-04-13 12:42:28,612 - INFO - INFO: Opening the workbook - 151
+2024-04-13 12:42:28,613 - ERROR - Exception raised: File is not a zip file - 1199
+2024-04-13 12:42:28,616 - INFO - Write successfull - 1235
+2024-04-13 12:42:56,726 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-13 12:42:56,727 - INFO - Server is watching the input file /Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-13 12:42:56,916 - INFO - The File update detected, triggering the workflow - 1232
+2024-04-13 12:42:56,929 - INFO - Folder 'Temp\20240413_124256\' created successfully. - 103
+2024-04-13 12:42:57,057 - INFO - INFO: Extracting - 109
+2024-04-13 12:42:57,058 - INFO - INFO: Opening the workbook - 151
+2024-04-13 12:42:57,059 - ERROR - Exception raised: File is not a zip file - 1199
+2024-04-13 12:42:57,064 - INFO - Write successfull - 1235
+2024-04-13 12:45:15,282 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-13 12:45:15,283 - INFO - Server is watching the input file /Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-13 12:45:15,428 - INFO - The File update detected, triggering the workflow - 1232
+2024-04-13 12:45:15,429 - INFO - Folder 'Temp\20240413_124515\' created successfully. - 103
+2024-04-13 12:45:15,583 - INFO - INFO: Extracting - 109
+2024-04-13 12:45:15,584 - INFO - INFO: Opening the workbook - 151
+2024-04-13 12:45:15,585 - ERROR - Exception raised: File is not a zip file - 1199
+2024-04-13 12:45:15,587 - INFO - Write successfull - 1235
+2024-04-13 12:46:16,660 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-13 12:46:16,661 - INFO - Server is watching the input file /personal/akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-13 12:46:16,820 - INFO - The File update detected, triggering the workflow - 1232
+2024-04-13 12:46:16,821 - INFO - Folder 'Temp\20240413_124616\' created successfully. - 103
+2024-04-13 12:46:18,929 - INFO - INFO: Extracting - 109
+2024-04-13 12:46:18,929 - INFO - INFO: Opening the workbook - 151
+2024-04-13 12:46:30,020 - INFO - INFO: Extracting - 157
+2024-04-13 12:46:35,843 - INFO - INFO: Extraction completed - 983
+2024-04-13 12:46:35,862 - INFO - INFO: The file closed - 992
+2024-04-13 12:47:02,118 - INFO - Write successfull - 1235
+2024-04-13 12:47:02,863 - INFO - File /personal/akash_saravanan_mavenberg_com/Documents/Documents/file.xlsx has been uploaded successfully - 85
+2024-04-13 12:47:02,864 - INFO - Server is watching the input file /personal/akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1237
+2024-04-13 12:49:03,787 - INFO - 
+Ctrl+C detected. Stopping the server - 1239
+2024-04-13 15:16:35,024 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-13 15:16:35,024 - INFO - Server is watching the input file /personal/akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-13 15:16:35,174 - INFO - The File update detected, triggering the workflow - 1232
+2024-04-13 15:16:35,174 - INFO - Folder 'Temp\20240413_151635\' created successfully. - 103
+2024-04-13 15:16:37,334 - INFO - INFO: Extracting - 109
+2024-04-13 15:16:37,334 - INFO - INFO: Opening the workbook - 151
+2024-04-13 15:16:43,444 - INFO - INFO: Extracting - 157
+2024-04-13 15:16:46,255 - INFO - INFO: Extraction completed - 983
+2024-04-13 15:16:46,264 - INFO - INFO: The file closed - 992
+2024-04-13 15:16:58,159 - INFO - Write successfull - 1235
+2024-04-13 15:16:58,724 - INFO - File /personal/akash_saravanan_mavenberg_com/Documents/Documents/file.xlsx has been uploaded successfully - 85
+2024-04-13 15:16:58,724 - INFO - Server is watching the input file /personal/akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1237
+2024-04-13 16:04:52,084 - INFO - The File update detected, triggering the workflow - 1232
+2024-04-13 16:04:52,094 - INFO - Folder 'Temp\20240413_160452\' created successfully. - 103
+2024-04-13 16:04:54,306 - INFO - INFO: Extracting - 109
+2024-04-13 16:04:54,306 - INFO - INFO: Opening the workbook - 151
+2024-04-13 16:05:15,895 - INFO - INFO: Extracting - 157
+2024-04-13 16:05:23,346 - INFO - INFO: Extraction completed - 983
+2024-04-13 16:05:23,379 - INFO - INFO: The file closed - 992
+2024-04-13 16:06:07,431 - INFO - Write successfull - 1235
+2024-04-13 16:06:08,185 - INFO - File /personal/akash_saravanan_mavenberg_com/Documents/Documents/file.xlsx has been uploaded successfully - 85
+2024-04-13 16:06:08,185 - INFO - Server is watching the input file /personal/akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1237
+2024-04-13 16:06:14,355 - INFO - 
+Ctrl+C detected. Stopping the server - 1239
+2024-04-23 18:52:43,891 - INFO - Authenticated into sharepoint as: Akash Saravanan - 74
+2024-04-23 18:52:43,895 - INFO - Server is watching the input file /personal/akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1228
+2024-04-23 18:52:44,415 - INFO - The File update detected, triggering the workflow - 1232
+2024-04-23 18:52:44,425 - INFO - Folder 'Temp\20240423_185244\' created successfully. - 103
+2024-04-23 18:53:11,470 - INFO - INFO: Extracting - 109
+2024-04-23 18:53:11,470 - INFO - INFO: Opening the workbook - 151
+2024-04-23 18:53:28,875 - INFO - INFO: Extracting - 157
+2024-04-23 18:53:36,050 - INFO - INFO: Extraction completed - 983
+2024-04-23 18:53:36,075 - INFO - INFO: The file closed - 992
+2024-04-23 18:54:16,560 - INFO - Write successfull - 1235
+2024-04-23 18:54:17,425 - INFO - File /personal/akash_saravanan_mavenberg_com/Documents/Documents/file.xlsx has been uploaded successfully - 85
+2024-04-23 18:54:17,425 - INFO - Server is watching the input file /personal/akash_saravanan_mavenberg_com/Documents/Documents/OPEX_wolf.xlsx - 1237
